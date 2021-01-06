@@ -64,8 +64,9 @@ This is the code you need to align images to the right:
 ---
 
 ### `center` alignment example
-
+<p align="center">
 <img align="center" width="200" height="200" style="padding-button:10px" src="./img/4AiXzf8.jpg">
+</p>
 
 ```
 <img align="center" width="200" height="200" style="padding-button:10px" src="./img/4AiXzf8.jpg">
